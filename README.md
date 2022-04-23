@@ -1,2 +1,3 @@
-# cute-switch
-Using CSS and JS to create a cute switch in Dark and Light themes/mode
+# cute_switch
+A cute switch made using HTML, CSS and JS. 
+Tap the switch to display either of light or dark mode 
