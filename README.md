@@ -1,3 +1,3 @@
 # cute_switch
-A cute switch made using HTML, CSS and JS. 
-Tap the switch to display either of light or dark mode 
+A simple switch made using HTML, CSS and JS. 
+Tap the switch to change the page display to either light or dark mode
